@@ -5,7 +5,7 @@
   "ignorePresets": [
      "workarounds:javaLTSVersions"
   ],
-  "assignees": ["DanySK"],
+  "assignees": ["angelacorte"],
   "automerge": true,
   "dependencyDashboard": true,
   "git-submodules": {
